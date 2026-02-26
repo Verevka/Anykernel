@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Oxygen+ for POCO F4 by Olzhas0986
+kernel.string=Perfline+ for POCO F4 by Olzhas0986
 do.devicecheck=1
 do.modules=0
 do.systemless=1
