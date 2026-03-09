@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Oxygen+ for POCO F4 by Olzhas0986
+kernel.string=MagicTime for Xiaomi 12X by Verevka
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=munch
-device.name2=munchin
+device.name1=psyche
+device.name2=psychein
 device.name3=
 device.name4=
 device.name5=
